@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\18\Insiders\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(551,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Dihfence.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Dihfence.vcxproj -> C:\Users\Rochan\source\repos\Dihfence\x64\Debug\C.A.S.T.L.E.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
